@@ -6,6 +6,12 @@
   A dark, violet-toned theme designed for quality & visual comfort ◡̈
 </h4>
 
+<p align="center">
+  <a href="https://zed.dev/extensions/ultraviolet-theme">
+    <img alt="Zed downloads" src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fapi.zed.dev%2Fextensions%3Ffilter%3Dultraviolet-theme&search=%22download_count%22%3A(%5Cd%7B1%2C3%7D)(%5Cd%7B3%7D)%5Cb&replace=%241%2C%242&label=downloads&style=for-the-badge&logo=zedindustries&labelColor=111115&color=AF9CFF&logoColor=AF9CFF">
+  </a>
+</p>
+
 ## Preview
 <h4 align="center">
   ultraViolet:
